@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ruida decode": {
+      "commandName": "Project",
+      "commandLineArgs": "pcap-decode C:\\Source\\ruida-net\\virker.pcapng -88"
+    }
+  }
+}
